@@ -1,7 +1,3 @@
-//
-// Created by wojtek on 2018-01-07.
-//
-
 #ifndef GENETIC_CANDIDATE_HPP
 #define GENETIC_CANDIDATE_HPP
 #include <array>
